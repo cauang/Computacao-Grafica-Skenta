@@ -1,0 +1,19 @@
+﻿# Cache interno e arquivos importados da Godot 4
+.godot/
+*.translation
+
+# Documentos, roteiros e notas em Markdown (.md)
+*.md
+
+# Arquivos temporários e de log
+*.tmp
+*.log
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Configurações de IDEs e editores
+.vscode/
+.idea/
